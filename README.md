@@ -1,1 +1,1 @@
-# Patryk
+# Wirtualny bankomat
